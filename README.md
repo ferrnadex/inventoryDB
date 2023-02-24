@@ -5,7 +5,7 @@ During the SQL development practice, I´ve created a relational-single table tha
 ## Data Type Definition:
 
 * **ORDERDATE**
-  *As data value, this will store the data where the inventory item was received.
+  * As data value, this will store the data where the inventory item was received.
 * **REGION**
   * As a string value, this will store the name of the regions.
 * **REP**
