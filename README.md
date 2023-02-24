@@ -23,6 +23,6 @@ This database can be used to reference other inventory data in different complex
 
 ## *Learning Level*
 
-* [ x ] Beginners
+* [x] Beginners
 * [ ] Intermediate
 * [ ] Advance
